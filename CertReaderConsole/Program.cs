@@ -36,7 +36,7 @@ namespace CertReaderConsole
             }
             else
             {
-                Console.WriteLine("No certificate found.");
+                Console.WriteLine("No certificate found!");
             }
         }
     }
