@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CertReaderConsole", "CertReaderConsole.csproj", "{E43C250D-584F-4C46-82B0-6C01567C15D4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WFProxyManager", "..\..\Lab\WFProxyManager\WFProxyManager.csproj", "{C21AC4C3-F22C-430A-9BDE-11E32502B242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WFProxyManager", "..\WFProxyManager\WFProxyManager.csproj", "{97795810-4872-4630-9D0C-150A4F0D17E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,14 +23,14 @@ Global
 		{E43C250D-584F-4C46-82B0-6C01567C15D4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E43C250D-584F-4C46-82B0-6C01567C15D4}.Release|x64.ActiveCfg = Release|x64
 		{E43C250D-584F-4C46-82B0-6C01567C15D4}.Release|x64.Build.0 = Release|x64
-		{C21AC4C3-F22C-430A-9BDE-11E32502B242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C21AC4C3-F22C-430A-9BDE-11E32502B242}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C21AC4C3-F22C-430A-9BDE-11E32502B242}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{C21AC4C3-F22C-430A-9BDE-11E32502B242}.Debug|x64.Build.0 = Debug|Any CPU
-		{C21AC4C3-F22C-430A-9BDE-11E32502B242}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C21AC4C3-F22C-430A-9BDE-11E32502B242}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C21AC4C3-F22C-430A-9BDE-11E32502B242}.Release|x64.ActiveCfg = Release|Any CPU
-		{C21AC4C3-F22C-430A-9BDE-11E32502B242}.Release|x64.Build.0 = Release|Any CPU
+		{97795810-4872-4630-9D0C-150A4F0D17E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97795810-4872-4630-9D0C-150A4F0D17E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97795810-4872-4630-9D0C-150A4F0D17E8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{97795810-4872-4630-9D0C-150A4F0D17E8}.Debug|x64.Build.0 = Debug|Any CPU
+		{97795810-4872-4630-9D0C-150A4F0D17E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97795810-4872-4630-9D0C-150A4F0D17E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97795810-4872-4630-9D0C-150A4F0D17E8}.Release|x64.ActiveCfg = Release|Any CPU
+		{97795810-4872-4630-9D0C-150A4F0D17E8}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
