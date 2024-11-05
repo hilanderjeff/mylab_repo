@@ -5,3 +5,6 @@
 /CertReaderConsole/obj
 /CertReaderConsole/bin/x64/Debug/net8.0
 /CertReaderConsole/.vs
+/WFProxyManager/.vs
+/WFProxyManager/obj
+/WFProxyManager/bin/Debug/net8.0-windows
