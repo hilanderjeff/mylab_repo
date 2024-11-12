@@ -11,3 +11,6 @@
 /WinAudioMixerLib/bin/Debug/net6.0
 /WinAudioMixerLib/obj/Debug/net6.0
 /WinAudioMixerLib/obj
+/AudioConsoleApp/bin/Debug/net6.0
+/AudioConsoleApp/obj
+/CertReaderConsole/bin/Debug/net8.0
