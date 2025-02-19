@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WFProxyManager", "..\WFProx
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinAudioMixerLib", "..\WinAudioMixerLib\WinAudioMixerLib.csproj", "{90A966CC-8A21-440D-9ED6-49E5A8CFAFBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioConsoleApp", "..\AudioConsoleApp\AudioConsoleApp.csproj", "{A1F6A458-B27B-4313-A0F8-A3AA1F310A82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AudioConsoleApp", "..\AudioConsoleApp\AudioConsoleApp.csproj", "{A1F6A458-B27B-4313-A0F8-A3AA1F310A82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserService", "..\UserService\UserService.csproj", "{A3AEFDC7-37E9-4518-98BB-9A248993F3D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServiceTest", "..\UserServiceTest\UserServiceTest.csproj", "{BA4FDD84-1A64-4C43-B1A9-19735D1C8BCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,22 @@ Global
 		{A1F6A458-B27B-4313-A0F8-A3AA1F310A82}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A1F6A458-B27B-4313-A0F8-A3AA1F310A82}.Release|x64.ActiveCfg = Release|Any CPU
 		{A1F6A458-B27B-4313-A0F8-A3AA1F310A82}.Release|x64.Build.0 = Release|Any CPU
+		{A3AEFDC7-37E9-4518-98BB-9A248993F3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AEFDC7-37E9-4518-98BB-9A248993F3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AEFDC7-37E9-4518-98BB-9A248993F3D5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A3AEFDC7-37E9-4518-98BB-9A248993F3D5}.Debug|x64.Build.0 = Debug|Any CPU
+		{A3AEFDC7-37E9-4518-98BB-9A248993F3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AEFDC7-37E9-4518-98BB-9A248993F3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AEFDC7-37E9-4518-98BB-9A248993F3D5}.Release|x64.ActiveCfg = Release|Any CPU
+		{A3AEFDC7-37E9-4518-98BB-9A248993F3D5}.Release|x64.Build.0 = Release|Any CPU
+		{BA4FDD84-1A64-4C43-B1A9-19735D1C8BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4FDD84-1A64-4C43-B1A9-19735D1C8BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4FDD84-1A64-4C43-B1A9-19735D1C8BCB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BA4FDD84-1A64-4C43-B1A9-19735D1C8BCB}.Debug|x64.Build.0 = Debug|Any CPU
+		{BA4FDD84-1A64-4C43-B1A9-19735D1C8BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4FDD84-1A64-4C43-B1A9-19735D1C8BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4FDD84-1A64-4C43-B1A9-19735D1C8BCB}.Release|x64.ActiveCfg = Release|Any CPU
+		{BA4FDD84-1A64-4C43-B1A9-19735D1C8BCB}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
